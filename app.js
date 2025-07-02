@@ -1,4 +1,3 @@
-// Fiz esse comentario para testar a atualização do repositorio local a partir do repositorio remoto
 let listaDeNumerosSorteados = [];
 let numeroLimte = 10;
 let numeroSecreto = gerarNumeroAleatorio();
